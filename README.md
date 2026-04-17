@@ -1,7 +1,5 @@
 # uv-python-setup
 
-[![Coverage](https://img.shields.io/badge/Coverage-0%25-red)](https://jedi-knights.github.io/uv-python-setup/)
-
 A GitHub Action that bootstraps a Python + [uv](https://github.com/astral-sh/uv) environment in one step: installs Python, installs uv, and runs `uv sync`. Supports private PyPI registries via named-index credentials without embedding secrets in URLs.
 
 ## Usage
