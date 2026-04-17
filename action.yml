@@ -1,9 +1,5 @@
-name: uv Python Setup
-description: >-
-  Bootstraps a Python + uv environment: installs Python, installs uv, and
-  runs uv sync. Supports private PyPI registries via named-index credentials
-  without embedding secrets in URLs.
-author: jedi-knights
+name: 'uv Python Setup by Jedi Knights'
+description: 'Bootstraps a Python + uv environment in one step. Supports private PyPI registries via named-index credentials without embedding secrets in URLs.'
 
 branding:
   icon: package
